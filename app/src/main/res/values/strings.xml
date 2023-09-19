@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversion App</string>
+    <string name="select_conversion_type">Select conversion type:</string>
+    <string-array name="conversion">
+        <item>Celcius (°C) to Farenheit(°F)</item>
+        <item>Kelvin(°K) to Celcius(°C)</item>
+        <item>Farenheit(°F) to Kelvin(°K)</item>
+    </string-array>
+</resources>
